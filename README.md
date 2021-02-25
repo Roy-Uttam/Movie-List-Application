@@ -1,3 +1,3 @@
 # Movie-List-Application
 
-This is a simple movie list application using html css bootstrap & javascript.
+https://roy-uttam.github.io/Movie-List-Application/
